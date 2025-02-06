@@ -1,6 +1,10 @@
-<div id="header" align="center">
+<div id="header" align="left">
   <!--<h3>The Scientist 🧑‍🔬</h3>-->
+  <div>
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JsZnN1eTd4NHJlNTBjZTZ4a2IzbHlqdDY2eWZ4NzhlZTBlc211aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8Aj8rqu5Cbf9xJeGbj/giphy.gif" width="300"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?&username=itsJakeChambers&layout=compact&theme=default" height="170px"/></a>
+  </div>
+  
   <br><br>
 <!--<h4>
 Languages and Tools :
@@ -23,7 +27,4 @@ Languages and Tools :
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="35" height="35"/>&nbsp;
 </div>-->
 <br>
-<p>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?&username=itsJakeChambers&layout=compact&theme=default" height="135px"/></a>
-</p>
 </div>
