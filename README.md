@@ -1,7 +1,7 @@
-<div id="header" align="left">
+<div id="header" align="center">
   <!--<h3>The Scientist 🧑‍🔬</h3>-->
   <div>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JsZnN1eTd4NHJlNTBjZTZ4a2IzbHlqdDY2eWZ4NzhlZTBlc211aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8Aj8rqu5Cbf9xJeGbj/giphy.gif" width="300"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JsZnN1eTd4NHJlNTBjZTZ4a2IzbHlqdDY2eWZ4NzhlZTBlc211aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8Aj8rqu5Cbf9xJeGbj/giphy.gif" width="440"/><br>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?&username=itsJakeChambers&layout=compact&theme=default" height="170px"/></a>
   </div>
   
