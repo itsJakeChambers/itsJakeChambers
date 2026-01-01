@@ -5,7 +5,7 @@
   <!--<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?&username=itsJakeChambers&layout=compact&theme=default&cache_seconds=21600&v=1" height="127px"/></a>-->
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img
-      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsJakeChambers&theme=transparent"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsJakeChambers&theme=github"
       height="140px"
       alt="Most Commit Language"
     />
