@@ -2,8 +2,16 @@
   <!--<h3>The Scientist 🧑‍🔬</h3>-->
   <div>
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JsZnN1eTd4NHJlNTBjZTZ4a2IzbHlqdDY2eWZ4NzhlZTBlc211aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8Aj8rqu5Cbf9xJeGbj/giphy.gif" width="330"/><br>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?&username=itsJakeChambers&layout=compact&theme=default" height="127px"/></a>
-  </div>
+  <!--<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?&username=itsJakeChambers&layout=compact&theme=default&cache_seconds=21600&v=1" height="127px"/></a>-->
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img
+      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsJakeChambers&theme=github"
+      height="127px"
+      alt="Most Commit Language"
+    />
+  </a>
+</div>
+
   
 <!--<h4>
 Languages and Tools :
